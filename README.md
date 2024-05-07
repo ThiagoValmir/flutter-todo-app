@@ -1,15 +1,18 @@
-#Flutter Todo App
+# Flutter Todo App
 
-This project is a simple yet effective to-do list application built using Flutter.
+Este projeto é um aplicativo simples de lista de tarefas, construído usando Flutter.
 
-##Commands
+## Começando
 
-The application supports the following commands:
-delete: Remove a task from the list.
-add: Add a new task to the list.
-search: Find tasks based on keywords.
-check: Mark tasks as completed.
+### Comandos
 
-##Acknowledgment
+O aplicativo suporta os seguintes comandos:
 
-This project was made possible with the help of an online tutorial available at YouTube.
+- `delete`: Remove uma tarefa da lista.
+- `add`: Adiciona uma nova tarefa à lista.
+- `search`: Encontra tarefas com base em palavras-chave.
+- `check`: Marca as tarefas como concluídas.
+
+## Reconhecimento
+
+Este projeto foi possível com a ajuda de um tutorial online disponível no [YouTube](https://www.youtube.com/watch?v=K4P5DZ9TRns).
