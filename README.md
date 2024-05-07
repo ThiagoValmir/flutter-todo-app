@@ -1,16 +1,15 @@
-# flutter_todo_app
+#Flutter Todo App
 
-A new Flutter project.
+This project is a simple yet effective to-do list application built using Flutter.
 
-## Getting Started
+##Commands
 
-This project is a starting point for a Flutter application.
+The application supports the following commands:
+delete: Remove a task from the list.
+add: Add a new task to the list.
+search: Find tasks based on keywords.
+check: Mark tasks as completed.
 
-A few resources to get you started if this is your first Flutter project:
+##Acknowledgment
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project was made possible with the help of an online tutorial available at YouTube.
