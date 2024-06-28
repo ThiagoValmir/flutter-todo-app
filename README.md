@@ -4,8 +4,6 @@ This is a simple To-Do List application developed using Flutter. The goal of thi
 
 ### Features
 
-O aplicativo suporta os seguintes comandos:
-
 - Add, edit, and delete tasks.
 - Mark tasks as complete or incomplete.
 - View tasks in a list format.
